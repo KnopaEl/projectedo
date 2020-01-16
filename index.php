@@ -10,9 +10,47 @@
     </head>
     <body>
         <?php include('blocks/head.php');?>
-        <div class="container">
-            <?php include('blocks/carousel.php');?> 
-        </div>       
+        <div class="container-fluid">
+	<div class="row">
+        <div class="col-md-5">
+			<img class="img-fluid" src="/pics/Iam1.jpg" />
+		</div>
+		<div class="col-md-6">
+			<h4>
+            Эскизный проект «Выбор системы ЭДО для работы Московского политехнического университета» 
+			</h4>
+            <h5>
+            Удостоверяющий Центр Инфотекс – для решения задач ИБ Университета
+            </h5>
+			<dl>
+				<dt>
+                    Целью данной работы является: 
+				</dt>
+				<dd>
+                    изучение юридических и технических аспектов для ЭДО, использования ЦП и УЦ с целью внедрения такой системы в работу университета «Московский Политех».
+				</dd>
+				<dt>
+                    Объектом исследования является:
+				</dt>
+				<dd>
+                    изучение рынка ЭДО, вопросов лицензирования ФСБ и ФСТЭК, способа передачи документов, используя ЭЦП, с целью внедрения системы ЭДО в университет для организации безопасной передачи данных.
+				</dd>
+				<dt>
+                    Предметом исследования является:
+				</dt>
+				<dd>
+                    выбор конкретного ЭДО, а так же ЭЦП, УЦ. Описание юридических сторон данной темы. Изучение структуры университета «Московский Политех».
+				</dd>
+				<dt>
+					Работу выполнил студент 3 курса группы 171-341 
+				</dt>
+				<dd>
+					Мельник Елизавета Васильевна
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>      
         <?php include('blocks/footer.php');?>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

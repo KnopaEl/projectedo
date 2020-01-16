@@ -9,16 +9,10 @@
             <a class="nav-link" href="/index.php">Главная <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="/cp.php">Получение КЦП</a>
+            <a class="nav-link" href="/oproject.php">О проекте</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="/fstek.php">Лицензирование ФСТЭК</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="/fsb.php">Лицензирование ФСБ</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="/uc.php">Аккредитация УЦ</a>
+            <a class="nav-link" href="/soderzchanie.php">Содержание работы</a>
         </li>
     </ul>
   </div>
